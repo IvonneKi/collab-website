@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: "Brett Hayhurst"
+author: "Brett and Ivonne"
 date: "2/22/2021"
 output: html_document
 ---
