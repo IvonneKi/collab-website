@@ -19,6 +19,8 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+![](https://www.carbodydesign.com/media/2011/01/Audi-Avatar-Concept.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
